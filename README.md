@@ -4,7 +4,7 @@ Our passion is Bitcoin and we aim to add value to your own journey down the Bitc
 
 ## GitHub
 
-You will find our public facing code here.  Enjoy.
+You will find our **public** facing code here.  Enjoy.
 
 ### Documentation
 
