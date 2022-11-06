@@ -9,14 +9,13 @@ You will find our public facing code here.  Enjoy.
 ### Documentation
 
 A general store of CandidateBlock documentation we hope you find useful 
-* ReadTheDocs __[CandidateBlock-docs.readthedocs.io](https://candidateblock-docs.readthedocs.io)__
+* General Documentation __[CandidateBlock-docs.readthedocs.io](https://candidateblock-docs.readthedocs.io)__
 
 ### Code
 
 CandidateBlock Bitcoin Library is an educational python library to perform actions on the blockchain
 * GitHub Repo __[github.com/CandidateBlock/candidateblock-bitcoin-library](https://github.com/CandidateBlock/candidateblock-bitcoin-library)__
-* ReadTheDocs __[CandidateBlock-Bitcoin-Library.readthedocs.io](https://candidateblock-bitcoin-library.readthedocs.io)__ 
-* ReadTheDocs <a href="https://candidateblock-bitcoin-library.readthedocs.io" target="_blank">CandidateBlock-Bitcoin-Library.readthedocs.io</a>
+* Documentation __[CandidateBlock-Bitcoin-Library.readthedocs.io](https://candidateblock-bitcoin-library.readthedocs.io)__ 
 
 ## Web Resources
 
