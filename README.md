@@ -16,8 +16,9 @@ A general store of CandidateBlock documentation we hope you find useful
 CandidateBlock Bitcoin Library is an educational python library to perform actions on the blockchain
 * GitHub Repo __[github.com/CandidateBlock/candidateblock-bitcoin-library](https://github.com/CandidateBlock/candidateblock-bitcoin-library)__
 * ReadTheDocs __[CandidateBlock-Bitcoin-Library.readthedocs.io](https://candidateblock-bitcoin-library.readthedocs.io)__ 
+* ReadTheDocs <a href="https://candidateblock-bitcoin-library.readthedocs.io" target="_blank">CandidateBlock-Bitcoin-Library.readthedocs.io</a>
 
-## Contact
+## Web Resources
 
 __[www.CandidateBlock.com](https://candidateblock.com)__
 
