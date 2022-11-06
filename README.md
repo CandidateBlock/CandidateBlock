@@ -6,6 +6,17 @@ Our passion is Bitcoin and we aim to add value to your own journey down the Bitc
 
 You will find our public facing code here.  Enjoy.
 
+### Documentation
+
+A general store of CandidateBlock documentation we hope you find useful 
+* ReadTheDocs __[CandidateBlock-docs.readthedocs.io](https://candidateblock-docs.readthedocs.io)__
+
+### Code
+
+CandidateBlock Bitcoin Library is an educational python library to perform actions on the blockchain
+* GitHub Repo __[github.com/CandidateBlock/candidateblock-bitcoin-library](https://github.com/CandidateBlock/candidateblock-bitcoin-library)__
+* ReadTheDocs __[CandidateBlock-Bitcoin-Library.readthedocs.io](https://candidateblock-bitcoin-library.readthedocs.io)__ 
+
 ## Contact
 
 __[www.CandidateBlock.com](https://candidateblock.com)__
